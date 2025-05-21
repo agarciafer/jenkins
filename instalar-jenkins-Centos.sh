@@ -28,5 +28,5 @@ chmod 777 /tomcat-staging/bin/*.sh
 
 
 /var/lib/jenkins
-grep -r -w -n "192.168.30.10"
-jenkins.model.JenkinsLocationConfiguration.xml:3:  <jenkinsUrl>http://192.168.30.10:8080/</jenkinsUrl>
+grep -r -w -n "192.168.33.10"
+jenkins.model.JenkinsLocationConfiguration.xml:3:  <jenkinsUrl>http://192.168.33.10:8080/</jenkinsUrl>
